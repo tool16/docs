@@ -1,6 +1,7 @@
 # Agentic Personal Knowledge Management with OpenClaw, PARA, and QMD
 
 ref: https://x.com/nateliason/status/2017636775347331276?s=46&t=a8oUlsLKTeIMaFvirEGMcw
+
 _Giving your AI agent durable, structured memory using PARA and atomic factsAs always, if you don't want to read it, just paste it to your Claw_
 
 The Problem With AI Memory
